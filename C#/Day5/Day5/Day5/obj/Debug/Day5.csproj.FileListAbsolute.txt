@@ -1,0 +1,7 @@
+E:\Tahaluf\C#\Day5\Day5\Day5\bin\Debug\Day5.exe.config
+E:\Tahaluf\C#\Day5\Day5\Day5\bin\Debug\Day5.exe
+E:\Tahaluf\C#\Day5\Day5\Day5\bin\Debug\Day5.pdb
+E:\Tahaluf\C#\Day5\Day5\Day5\obj\Debug\Day5.csprojAssemblyReference.cache
+E:\Tahaluf\C#\Day5\Day5\Day5\obj\Debug\Day5.csproj.CoreCompileInputs.cache
+E:\Tahaluf\C#\Day5\Day5\Day5\obj\Debug\Day5.exe
+E:\Tahaluf\C#\Day5\Day5\Day5\obj\Debug\Day5.pdb

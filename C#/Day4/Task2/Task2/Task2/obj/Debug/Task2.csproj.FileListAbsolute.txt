@@ -1,0 +1,7 @@
+E:\Tahaluf\C#\Day4\Task2\Task2\Task2\bin\Debug\Task2.exe.config
+E:\Tahaluf\C#\Day4\Task2\Task2\Task2\bin\Debug\Task2.exe
+E:\Tahaluf\C#\Day4\Task2\Task2\Task2\bin\Debug\Task2.pdb
+E:\Tahaluf\C#\Day4\Task2\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+E:\Tahaluf\C#\Day4\Task2\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\Tahaluf\C#\Day4\Task2\Task2\Task2\obj\Debug\Task2.exe
+E:\Tahaluf\C#\Day4\Task2\Task2\Task2\obj\Debug\Task2.pdb

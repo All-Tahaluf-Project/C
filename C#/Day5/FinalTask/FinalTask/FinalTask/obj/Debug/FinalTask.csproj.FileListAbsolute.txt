@@ -1,0 +1,7 @@
+E:\Tahaluf\C#\Day5\FinalTask\FinalTask\FinalTask\bin\Debug\FinalTask.exe.config
+E:\Tahaluf\C#\Day5\FinalTask\FinalTask\FinalTask\bin\Debug\FinalTask.exe
+E:\Tahaluf\C#\Day5\FinalTask\FinalTask\FinalTask\bin\Debug\FinalTask.pdb
+E:\Tahaluf\C#\Day5\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.csprojAssemblyReference.cache
+E:\Tahaluf\C#\Day5\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.csproj.CoreCompileInputs.cache
+E:\Tahaluf\C#\Day5\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.exe
+E:\Tahaluf\C#\Day5\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.pdb
